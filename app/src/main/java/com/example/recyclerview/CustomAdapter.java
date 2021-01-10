@@ -11,6 +11,9 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+//something new in recycler view
+//something new in recycler view
+
 public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.MyviewHolder> //parent class reference is needed to call child class
 {
     Activity activity;
